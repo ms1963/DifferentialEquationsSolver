@@ -495,34 +495,32 @@ Ensure function names are consistent
 Use simple names: x, y, z (not x1, x2)
 
 Example:
-❌ Equation 1: x' = -y
-    Equation 2: z' = x    # z not defined!
+❌ Equation 1: x' = -y, Equation 2: z' = x    # z not defined!
 
-✅ Equation 1: x' = -y
-    Equation 2: y' = x
+✅ Equation 1: x' = -y, Equation 2: y' = x
 
 
 ## 🎓 Educational Use Cases
 For Students
 
-✅ Verify homework solutions
-✅ Visualize solution behavior
-✅ Understand phase portraits
-✅ Learn ODE/PDE concepts interactively
+- ✅ Verify homework solutions
+- ✅ Visualize solution behavior
+- ✅ Understand phase portraits
+- ✅ Learn ODE/PDE concepts interactively
 
 For Teachers
 
-✅ Generate examples for lectures
-✅ Create visualizations for presentations
-✅ Demonstrate solution techniques
-✅ Show real-world applications
+- ✅ Generate examples for lectures
+- ✅ Create visualizations for presentations
+- ✅ Demonstrate solution techniques
+- ✅ Show real-world applications
 
 For Researchers
 
-✅ Quick analytical solutions
-✅ Model verification
-✅ Parameter exploration
-✅ Visualization of dynamics
+- ✅ Quick analytical solutions
+- ✅ Model verification
+- ✅ Parameter exploration
+- ✅ Visualization of dynamics
 
 
 ## 🔧 Technical Details
@@ -540,38 +538,38 @@ Solver Backend
 Supported Equation Types
 ODEs
 
-✅ First-order linear and nonlinear
-✅ Second-order linear with constant coefficients
-✅ Higher-order ODEs
-✅ Systems of linear ODEs
-✅ Some nonlinear systems
+- ✅ First-order linear and nonlinear
+- ✅ Second-order linear with constant coefficients
+- ✅ Higher-order ODEs
+- ✅ Systems of linear ODEs
+- ✅ Some nonlinear systems
 
 PDEs
 
-✅ Heat equation (parabolic)
-✅ Wave equation (hyperbolic)
-✅ Laplace equation (elliptic)
-✅ Some separable PDEs
+- ✅ Heat equation (parabolic)
+- ✅ Wave equation (hyperbolic)
+- ✅ Laplace equation (elliptic)
+- ✅ Some separable PDEs
 
 Limitations
 
-⚠️ Not all PDEs have analytical solutions
-⚠️ Nonlinear systems may not be solvable symbolically
-⚠️ Complex boundary conditions may require numerical methods
-⚠️ Very stiff equations may need specialized solvers
+- ⚠️ Not all PDEs have analytical solutions
+- ⚠️ Nonlinear systems may not be solvable symbolically
+- ⚠️ Complex boundary conditions may require numerical methods
+- ⚠️ Very stiff equations may need specialized solvers
 
 
 ## 📚 Further Reading
-SymPy Documentation
+- SymPy Documentation
 
-SymPy ODE Solver
-SymPy PDE Solver
+- SymPy ODE Solver
+- SymPy PDE Solver
 
 Differential Equations Resources
 
-MIT OpenCourseWare - Differential Equations
-Paul's Online Math Notes
-Khan Academy - Differential Equations
+- MIT OpenCourseWare - Differential Equations
+- Paul's Online Math Notes
+- Khan Academy - Differential Equations
 
 ## Applications
 
