@@ -16,7 +16,7 @@ Features:
 - Parameter sweeps
 - Stability analysis
 
-Author: AI  Michael Stal
+Author: Michael Stal
 License: MIT
 Date: 2026-01-03
 """
