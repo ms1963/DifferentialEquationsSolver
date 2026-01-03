@@ -659,9 +659,9 @@ class DifferentialEquationSolver:
         print(" DIFFERENTIAL EQUATION SOLVER v4.0 - Experimental".center(80))
         print("=" * 80)
         print("\n✨ Complete Features:")
-        print("  • Symbolic &amp; Numerical ODE/PDE solving")
-        print("  • Systems of equations (ODEs &amp; PDEs)")
-        print("  • 2D/3D visualization &amp; animation")
+        print("  • Symbolic & Numerical ODE/PDE solving")
+        print("  • Systems of equations (ODEs & PDEs)")
+        print("  • 2D/3D visualization & animation")
         print("  • Stability analysis")
         print("  • Export (JSON, LaTeX, CSV)")
         print("  • Production-grade error handling")
@@ -2515,7 +2515,7 @@ class DifferentialEquationSolver:
             print(f"❌ Export failed: {str(e)}")
     
     # ========================================================================
-    # HELP &amp; EXAMPLES
+    # HELP & EXAMPLES
     # ========================================================================
     
     def show_help(self):
@@ -2539,7 +2539,7 @@ class DifferentialEquationSolver:
         
         print("\n🎨 FEATURES")
         print("-" * 80)
-        print("• Symbolic &amp; numerical solving")
+        print("• Symbolic & numerical solving")
         print("• 2D/3D visualization")
         print("• Animation support")
         print("• Stability analysis")
