@@ -1,7 +1,7 @@
 """
 Differential Equation Solver -  Experimental Version
 Supports ODEs, PDEs, and their systems with comprehensive visualization
-Version: 4.0 (Complete but Experimental)
+Version: 0.1 (Complete but Experimental)
 
 Features:
 - Symbolic and numerical ODE/PDE solving
@@ -72,7 +72,7 @@ class SolutionExporter:
                 'solution': str(solution_dict.get('solution', '')),
                 'equation': str(solution_dict.get('equation_str', '')),
                 'metadata': {
-                    'solver_version': '4.0',
+                    'solver_version': '0.1',
                     'method': solution_dict.get('method', 'symbolic')
                 }
             }
