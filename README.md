@@ -2,7 +2,10 @@
 A powerful, interactive Python application for solving ordinary differential equations (ODEs), partial differential equations (PDEs), and their systems with built-in visualization capabilities.
 
 (c) 2026, Michael Stal
+
+
 LICENSE used: MIT
+
 
 ## Versions
 - solver.py:        Regular solver with support for PDEs and ODEs
