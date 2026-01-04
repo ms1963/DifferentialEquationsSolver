@@ -1,0 +1,27 @@
+# Differential Equation Solver - Requirements
+# Version: 4.0
+# Python: >=3.8
+
+# Core symbolic mathematics
+sympy>=1.12
+
+# Numerical computing
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Animation support
+pillow>=10.0.0
+
+# Optional but recommended
+# For better performance
+numexpr>=2.8.0
+
+# For enhanced plotting (optional)
+seaborn>=0.12.0
+
+# For Jupyter notebook support (optional)
+ipython>=8.0.0
+jupyter>=1.0.0
